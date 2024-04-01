@@ -36,7 +36,7 @@
 		<link rel="icon" type="image/png" href="assets/img/favicon.png">
 		
         <!-- TITLE -->
-        <title>Pro Shipping</title>
+        <title>Cargojiji</title>
     </head>
 
     <body>
@@ -87,7 +87,7 @@ function googleTranslateElementInit() {
 										<a href="mailto:suppout@yourdomain.com">
 											<i class='bx bx-envelope'></i>
 											<span>Contact support</span>
-											contact@multilinksbase.biz
+											contact@Cargojiji.biz
 										</a>
 									</li>
 									<li class="pl-0">
@@ -310,7 +310,7 @@ function googleTranslateElementInit() {
 							<div class="sidebar-modal-widget">
 								<h3 class="title">About Us</h3>
 								<p>
-								Pro Shipping offers a host of logistic management services and supply chain solutions. 
+								Cargojiji offers a host of logistic management services and supply chain solutions. 
 								</p>
 							</div>
 							
@@ -325,7 +325,7 @@ function googleTranslateElementInit() {
 									<li>
 										<i class="bx bx-envelope"></i>
 										Email
-										<span>contact@multilinksbase.biz</span>
+										<span>contact@Cargojiji.com</span>
 									</li>
 									<li>
 										<i class="bx bxs-phone-call"></i>
@@ -425,7 +425,7 @@ function googleTranslateElementInit() {
 						<div class="about-content ml-30">
 							<span>About Us</span>
 							<h2>Reliable and express logistics and transport solutions That does not waste your time!</h2>
-							<p class="mb-0" style="text-align: justify;">Pro Shipping offers a host of logistic management services and supply chain solutions. 
+							<p class="mb-0" style="text-align: justify;">Cargojiji offers a host of logistic management services and supply chain solutions. 
 							We provide innovative solutions with the best people, processes, and technology. With over 60 years of 
 							providing world class service to their customers on the asset side, a need to provide a one stop shop 
 							for a” true customer service logistic solution” was introduced. By adding this dimension to an already 
@@ -507,7 +507,7 @@ function googleTranslateElementInit() {
 					</div>
 					<div class="col-lg-4">
 						<div class="single-widget-bottom">
-							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Pro Shipping</a></p>
+							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Cargojiji</a></p>
 						</div>
 					</div>
 					<div class="col-lg-3">

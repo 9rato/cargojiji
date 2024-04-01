@@ -36,7 +36,7 @@
 		<link rel="icon" type="image/png" href="assets/img/favicon.png">
 		
         <!-- TITLE -->
-        <title>Pro Shipping</title>
+        <title>Cargojiji</title>
     </head>
 
     <body>

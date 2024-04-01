@@ -95,7 +95,7 @@ if(isset($_POST['submit'])){
 		<link rel="icon" type="image/png" href="assets/img/favicon.png">
 		
         <!-- TITLE -->
-        <title>Pro Shipping</title>
+        <title>Cargojiji</title>
     </head>
 
     <body>
@@ -222,12 +222,9 @@ function googleTranslateElementInit() {
 								<div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
 									<ul class="navbar-nav mr-auto">
 										<li class="nav-item">
-										    	<style>
- 
-				
-											<a href="index.php" class="nav-link dropdown-toggle active">
+										    <a href="index.php" class="nav-link dropdown-toggle active">
 												Home
-											</a><!--
+											</a><!----
 											<ul class="dropdown-menu">
 												<li class="nav-item">
 													<a href="index.php" class="nav-link">Home One</a>
@@ -414,7 +411,7 @@ function googleTranslateElementInit() {
 					</div>
 					<div class="col-lg-4">
 						<div class="single-widget-bottom">
-							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Pro Shipping</a></p>
+							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Cargojiji</a></p>
 						</div>
 					</div>
 					<div class="col-lg-3">

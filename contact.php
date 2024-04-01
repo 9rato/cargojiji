@@ -37,7 +37,7 @@
 		 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 		
         <!-- TITLE -->
-        <title>Pro Shipping</title>
+        <title>Cargojiji</title>
     </head>
 
     <body>
@@ -87,7 +87,7 @@ function googleTranslateElementInit() {
 										<a href="mailto:suppout@yourdomain.com">
 											<i class='bx bx-envelope'></i>
 											<span>Contact support</span>
-											contact@multilinksbase.biz
+											contact@Cargojiji.biz
 										</a>
 									</li>
 									<li class="pl-0">
@@ -308,7 +308,7 @@ function googleTranslateElementInit() {
 							<div class="sidebar-modal-widget">
 								<h3 class="title">About Us</h3>
 								<p>
-								Pro Shipping offers a host of logistic management services and supply chain solutions.
+								Cargojiji offers a host of logistic management services and supply chain solutions.
 								</p>
 							</div>
 							
@@ -318,12 +318,12 @@ function googleTranslateElementInit() {
 									<li>
 										<i class="bx bx-location-plus"></i>
 										Email
-										<span>contact@multilinksbase.biz</span>
+										<span>contact@Cargojiji.com</span>
 									</li>
 									<li>
 										<i class="bx bx-envelope"></i>
 										Email
-										<span>contact@multilinksbase.biz</span>
+										<span>contact@Cargojiji.com</span>
 									</li>
 									<li>
 										<i class="bx bxs-phone-call"></i>
@@ -423,7 +423,7 @@ function googleTranslateElementInit() {
 						<div class="single-address">
 							<i class='bx bx-location-plus'></i>
 							<h3>Reach support</h3>
-							<p>contact@multilinksbase.biz</p>
+							<p>contact@Cargojiji.com</p>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0">
@@ -530,7 +530,7 @@ function googleTranslateElementInit() {
 					</div>
 					<div class="col-lg-4">
 						<div class="single-widget-bottom">
-							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Pro Shipping</a></p>
+							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Cargojiji</a></p>
 						</div>
 					</div>
 					<div class="col-lg-3">

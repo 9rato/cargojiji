@@ -48,7 +48,7 @@ include "config/database.php";
 		<link rel="icon" type="image/png" href="assets/img/favicon.png">
 		
         <!-- TITLE -->
-        <title>Pro Shipping</title>
+        <title>Cargojiji</title>
     </head>
 
     <body>
@@ -350,7 +350,7 @@ function googleTranslateElementInit() {
 					</div>
 					<div class="col-lg-4">
 						<div class="single-widget-bottom">
-							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Pro Shipping</a></p>
+							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Cargojiji</a></p>
 						</div>
 					</div>
 					<div class="col-lg-3">

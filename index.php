@@ -98,7 +98,7 @@ if(isset($_POST['submit'])){
   </style>
 		
         <!-- TITLE -->
-        <title>Multilinksbase</title>
+        <title>Cargojiji</title>
     </head>
 
     <body>
@@ -148,7 +148,7 @@ function googleTranslateElementInit() {
 										<a href="mailto:suppout@yourdomain.com">
 											<i class='bx bx-envelope'></i>
 											<span>Contact support</span>
-											contact@multilinksbase.biz
+											contact@cargojiji.com
 										</a>
 									</li>
 									<li class="pl-0">
@@ -372,7 +372,7 @@ function googleTranslateElementInit() {
 						<div class="modal-body">
 							<div class="sidebar-modal-widget">
 								<h3 class="title">About Us</h3>
-								<p>Multilinksbase offers a host of logistic management services and supply chain solutions. 
+								<p>Cargojiji offers a host of logistic management services and supply chain solutions. 
 								We provide innovative solutions with the best people, processes, and technology. </p>
 							</div>
 							
@@ -387,7 +387,7 @@ function googleTranslateElementInit() {
 									<li>
 										<i class="bx bx-envelope"></i>
 										Email
-										<span>contact@multilinksbase.biz</span>
+										<span>contact@cargojiji.com</span>
 									</li>
 									<li>
 										<i class="bx bxs-phone-call"></i>
@@ -487,7 +487,7 @@ function googleTranslateElementInit() {
 							<div class="container">
 								<div class="prevoz-slider-text overflow-hidden one">
 									<span>Welcome</span>
-									<h1>Multilinksbase and Logistics Company</h1>
+									<h1>Cargojiji and Logistics Company</h1>
 									
 									
 									
@@ -580,7 +580,7 @@ function googleTranslateElementInit() {
 						<div class="single-offer">
 							<i class="icon flaticon-air-freight"></i>
 							<h3>Air Freight</h3>
-							<p>Multilinksbase Company is an airfreight forwarding specialists offering a comprehensive ...</p>
+							<p>Cargojiji Company is an airfreight forwarding specialists offering a comprehensive ...</p>
 							<a class="circle-read-more" href="service-details.php">
 								<i class="flaticon-right-1"></i>
 							</a>
@@ -590,7 +590,7 @@ function googleTranslateElementInit() {
 						<div class="single-offer">
 							<i class="icon flaticon-plastic-bottle"></i>
 							<h3>Ocean Freight</h3>
-							<p>Multilinksbase Company flexible and scalable sea freight solutions cover your ...</p>
+							<p>Cargojiji Company flexible and scalable sea freight solutions cover your ...</p>
 							<a class="circle-read-more" href="service-details.php">
 								<i class="flaticon-right-1"></i>
 							</a>
@@ -600,7 +600,7 @@ function googleTranslateElementInit() {
 						<div class="single-offer">
 							<i class="icon flaticon-street"></i>
 							<h3>Road  Freight</h3>
-							<p>Multilinksbase Transport offers an efficient integrated transport system with multiple types ..</p>
+							<p>Cargojiji Transport offers an efficient integrated transport system with multiple types ..</p>
 							<a class="circle-read-more" href="service-details.php">
 								<i class="flaticon-right-1"></i>
 							</a>
@@ -619,7 +619,7 @@ function googleTranslateElementInit() {
 						<div class="about-content">
 							<span>Know About Us </span>
 							<h2>Reliable and express logistics and transport solutions That does not waste your time!</h2>
-							<p>Multilinksbase offers a host of logistic management services and supply chain solutions. 
+							<p>Cargojiji offers a host of logistic management services and supply chain solutions. 
 							We provide innovative solutions with the best people, processes, and technology. With over 
 							60 years of providing world class service to their customers on the asset side, a need to 
 							provide a one stop shop for a” true customer service logistic solution” was introduced. By 
@@ -682,7 +682,7 @@ function googleTranslateElementInit() {
 						<div class="testimonials-wrap">
 							<img src="assets/img/testimonials/1.jpg" alt="Image">
 							<div class="testimonials-content">
-								<p>Multilinksbase Company is the fastest and reliable shipping company i have ever seen. </p>
+								<p>Cargojiji Company is the fastest and reliable shipping company i have ever seen. </p>
 								<h3>Juhon Dew</h3>
 								<ul>
 									<li>
@@ -706,7 +706,7 @@ function googleTranslateElementInit() {
 						<div class="testimonials-wrap">
 							<img src="assets/img/testimonials/2.jpg" alt="Image">
 							<div class="testimonials-content">
-								<p>My package came right on time... Thanks to Multilinksbase International!</p>
+								<p>My package came right on time... Thanks to Cargojiji International!</p>
 								<h3>Moris Noman</h3>
 								<ul>
 									<li>
@@ -730,7 +730,7 @@ function googleTranslateElementInit() {
 						<div class="testimonials-wrap">
 							<img src="assets/img/testimonials/3.jpg" alt="Image">
 							<div class="testimonials-content">
-								<p>There are many variations of shipping agency... Multilinksbase is the best i have ever worked with</p>
+								<p>There are many variations of shipping agency... Cargojiji is the best i have ever worked with</p>
 								<h3>Jon Smit</h3>
 								<ul>
 									<li>
@@ -871,7 +871,7 @@ function googleTranslateElementInit() {
 					</div>
 					<div class="col-lg-4">
 						<div class="single-widget-bottom">
-							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Multilinksbase</a></p>
+							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Cargojiji</a></p>
 						</div>
 					</div>
 					<div class="col-lg-3">

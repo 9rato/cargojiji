@@ -36,7 +36,7 @@
 		<link rel="icon" type="image/png" href="assets/img/favicon.png">
 		
         <!-- TITLE -->
-        <title>Pro Shipping</title>
+        <title>Cargojiji</title>
     </head>
 
     <body>
@@ -308,7 +308,7 @@ function googleTranslateElementInit() {
 							<div class="sidebar-modal-widget">
 								<h3 class="title">About Us</h3>
 								<p>
-								Pro Shipping offers a host of logistic management services and supply chain solutions.
+								Cargojiji offers a host of logistic management services and supply chain solutions.
 								</p>
 							</div>
 							
@@ -423,19 +423,19 @@ function googleTranslateElementInit() {
 </p>
 							<h3>Air Freight</h3>
 							<p>
-							Pro Shipping Company is an airfreight forwarding specialists offering a 
+							Cargojiji Company is an airfreight forwarding specialists offering a 
 							comprehensive range of international air cargo solutions with unbeatable 
 							levels of customer service.
 							</p>
 							<h3>Ocean Freight</h3>
 							<p>
-							Pro Shipping Company flexible and scalable sea freight solutions cover your 
+							Cargojiji Company flexible and scalable sea freight solutions cover your 
 							specific needs. Our affiliation with leading carriers is the key to our cost-effective services.
 							</p>
 							<h3>Road Freight</h3>
 							<p>
-							Pro Shipping Company flexible and scalable sea freight solutions cover your 
-							Pro Shipping offers an efficient integrated transport system with multiple types of trucks available to support your trucking and distribution needs. Our trucking service extends to various locations such as offices, warehouses, exhibition venue to neighboring countries, Florida and in the United Kingdom. All cargos are handled carefully, tracked and distributed in precise accordance with our customer’s schedule, assuring on-time deliveries.
+							Cargojiji Company flexible and scalable sea freight solutions cover your 
+							Cargojiji offers an efficient integrated transport system with multiple types of trucks available to support your trucking and distribution needs. Our trucking service extends to various locations such as offices, warehouses, exhibition venue to neighboring countries, Florida and in the United Kingdom. All cargos are handled carefully, tracked and distributed in precise accordance with our customer’s schedule, assuring on-time deliveries.
 
 
 							</p>
@@ -469,7 +469,7 @@ function googleTranslateElementInit() {
 					</div>
 					<div class="col-lg-4">
 						<div class="single-widget-bottom">
-							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Pro Shipping</a></p>
+							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Cargojiji</a></p>
 						</div>
 					</div>
 					<div class="col-lg-3">

@@ -50,7 +50,7 @@ include "config/database.php";
 		<link rel="icon" type="image/png" href="assets/img/favicon.png">
 		
         <!-- TITLE -->
-        <title>Pro Shipping</title>
+        <title>Cargojiji</title>
     </head>
 
     <body>
@@ -96,10 +96,10 @@ function googleTranslateElementInit() {
 										</a>
 									</li>
 									<li>
-										<a href="mailto:suppout@yourdomain.com">
+										<a href="mailto:contact@cargojiji.com">
 											<i class='bx bx-envelope'></i>
 											<span>Contact support</span>
-											support@yourdomain.com
+											contact@cargojiji.com
 										</a>
 									</li>
 									<li class="pl-0">
@@ -377,7 +377,7 @@ mysqli_close($link);
 					</div>
 					<div class="col-lg-4">
 						<div class="single-widget-bottom">
-							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Pro Shipping</a></p>
+							<p>Copyright <i class="bx bx-copyright"></i> 2024 <a href="index.php">Cargojiji</a></p>
 						</div>
 					</div>
 					<div class="col-lg-3">
