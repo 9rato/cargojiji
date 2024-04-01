@@ -370,7 +370,7 @@ mysqli_close($link);
 									<a href="#">Privacy &Policy</a>
 								</li>
 								<li>
-									<a href="#">Employee login</a>
+									<a href="#">Employee lgit 
 								</li>
 							</ul>
 						</div>

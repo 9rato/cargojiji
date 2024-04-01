@@ -94,10 +94,10 @@ function googleTranslateElementInit() {
 										</a>
 									</li>
 									<li>
-										<a href="mailto:suppout@yourdomain.com">
+										<a href="mailto:contact@cargojiji.com">
 											<i class='bx bx-envelope'></i>
 											<span>Contact support</span>
-											support@yourdomain.com
+											contact@cargojiji.com
 										</a>
 									</li>
 									<li class="pl-0">
