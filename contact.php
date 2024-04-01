@@ -87,7 +87,7 @@ function googleTranslateElementInit() {
 										<a href="mailto:suppout@yourdomain.com">
 											<i class='bx bx-envelope'></i>
 											<span>Contact support</span>
-											contact@Cargojiji.biz
+											contact@cargojiji.com
 										</a>
 									</li>
 									<li class="pl-0">
