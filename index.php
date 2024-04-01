@@ -129,7 +129,7 @@ function googleTranslateElementInit() {
 						<div class="col-lg-3">
 							<div class="header-left-content">
 								<a href="index.php">
-									<img src="assets/img/logo/cargojiji.svg" alt="Logo">
+								<img src="assets/img/logo/cargojiji.svg" alt="Logo" style="width: 20px">
 								</a>
 							</div>
 						</div>
