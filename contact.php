@@ -33,7 +33,7 @@
 		<link rel="stylesheet" href="assets/css/responsive.css">
 		
 		<!-- Favicon -->
-		<link rel="icon" type="image/png" href="assets/img/favicon.png">
+		<link rel="icon" type="image/png" href="assets/img/cargojiji.svg">
 		 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 		
         <!-- TITLE -->
@@ -68,7 +68,7 @@ function googleTranslateElementInit() {
 						<div class="col-lg-3">
 							<div class="header-left-content">
 								<a href="index.php">
-									<img src="assets/img/logo/logo-one.png" alt="Logo">
+									<img src="assets/img/logo/cargojiji.svg" alt="Logo" style="width: 70px">
 								</a>
 							</div>
 						</div>
@@ -152,7 +152,7 @@ function googleTranslateElementInit() {
 					<!-- Menu For Mobile Device -->
 					<div class="mobile-nav">
 						<a href="index.php" class="logo">
-							<img src="assets/img/logo/logo-one.png" alt="Logo">
+							<img src="assets/img/logo/cargojiji.svg" alt="Logo" style="width: 70px">
 						</a>
 					</div>
 					<!-- Menu For Desktop Device -->
@@ -300,7 +300,7 @@ function googleTranslateElementInit() {
 							</button>
 							<h2 class="modal-title" id="myModalLabel2">
 								<a href="index.php">
-									<img src="assets/img/logo/logo-one.png" alt="Logo">
+									<img src="assets/img/logo/cargojiji.svg" alt="Logo" style="width: 70px">
 								</a>
 							</h2>
 						</div>
