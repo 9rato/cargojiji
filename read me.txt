@@ -1,0 +1,62 @@
+*************************************************************
+**************PRODUCT OF DIGITALWEBPLUS.COM******************
+*************************************************************
+
+SCRIPT NAME: PROSHIPPING
+
+
+***SCRIPT CREDENTIALS***
+
+Admin Username: admin@digitalwebplus.com
+
+Admin Password: admin123 (you can change it)
+
+Admin Login URL: /admin/pages/login.php
+
+Customers Login URL: No customer login
+
+Database Location Folder: /db
+
+Configuration File Location: /config/database.php
+
+Languages: HTML, PHP 7, MYSQL, JavaScript and CSS
+
+/
+/
+/
+/
+
+***DEMO***
+
+-Trackng Code: 8SHHHGGD63
+
+/
+/
+/
+/
+
+***SERVER REQUIREMENT***
+
+-Shared hosting or VPS
+-PHP 7 or higher
+-Must support MySQL
+(((THIS SCRIPT HAS BEEN TESTED AND ITS WORKING PERFECTLY ON XAMPP LOCAL SERVER AND NAMECHEAP LIVE SERVER)))
+
+/
+/
+/
+/
+
+***How to install this courier script***
+
+-Download the file
+-Unzip the file
+-Unload the file to a live server or local server
+-Create a database
+-Create a database user and set a strong password for it
+-Add the database user you created to the database you just created, and grant all privileges to the user (for those on live server).
+-Go to  phpMyAdmin and import your script database file to your database (the file will be found in the fright/db folder in the file you unzipped)
+-Edit the configuration file to your server information (edit database name, database user and database password, it will be found in frightcargo/config/database.php)
+-Create webmail, (the email the will be responsible for all mails)
+-Use your web browser to locate the site.
+-Login to your admin, go to settings, add the webmail you created.
