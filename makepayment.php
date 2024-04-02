@@ -90,7 +90,7 @@ function googleTranslateElementInit() {
 										<a href="tel:+502-464-679">
 											<i class='bx bxs-phone-call'></i>
 											<span>Contact support</span>
-											+447-953-966-250
+											+1-7029-971-862
 										</a>
 									</li>
 									<li>

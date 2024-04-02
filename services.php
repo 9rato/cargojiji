@@ -78,14 +78,14 @@ function googleTranslateElementInit() {
 										<a href="tel:+502-464-679">
 											<i class='bx bxs-phone-call'></i>
 											<span>Contact support</span>
-											+447-953-966-250
+											+1-7029-971-862
 										</a>
 									</li>
 									<li>
 										<a href="mailto:contact@cargojiji.com">
 											<i class='bx bx-envelope'></i>
 											<span>Contact support</span>
-											support@yourdomain.com
+											contact@cargojiji.com
 										</a>
 									</li>
 									<li class="pl-0">
@@ -326,7 +326,7 @@ function googleTranslateElementInit() {
 									<li>
 										<i class="bx bxs-phone-call"></i>
 										Phone
-										<span>+447-953-966-250</span>
+										<span>+1-7029-971-862</span>
 									</li>
 								</ul>
 							</div>

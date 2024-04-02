@@ -80,7 +80,7 @@ function googleTranslateElementInit() {
 										    <i class="fab fa-whatsapp whatsapp-icon"></i>
 										
 											<span>Contact support</span>
-											+447-953-966-250
+											+1-7029-971-862
 										</a>
 									</li>
 									<li>
@@ -328,7 +328,7 @@ function googleTranslateElementInit() {
 									<li>
 										<i class="bx bxs-phone-call"></i>
 										Phone
-										<span>+447-953-966-250</span>
+										<span>+1-7029-971-862</span>
 									</li>
 								</ul>
 							</div>
@@ -416,7 +416,7 @@ function googleTranslateElementInit() {
 							<i class='bx bx-phone-call'></i>
 							<h3>Contact</h3>
 							<span>Talk to support</span>
-							<a href="tel:+447953966250">+447-953-966-250</a>
+							<a href="tel:+447953966250">+1-7029-971-862</a>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6">
