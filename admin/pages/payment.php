@@ -78,7 +78,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
         $to = $email;
         $subject = "Payment Received";
         $message = "Thank you for your payment. Your payment of $" . $amount . " has been received.";
-        $headers = "From: your_email@example.com"; // Replace with your email address
+        $headers = "From: contact@cargojiji.com"; // Replace with your email address
         
         // Send email
         if (mail($to, $subject, $message, $headers)) {
