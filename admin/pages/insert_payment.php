@@ -45,29 +45,29 @@ if (mysqli_query($conn, $sql)) {
 // Close database connection
 mysqli_close($conn);
 ?>
+<?php
+// // Close the database connection
+// mysqli_close($link);
 
-// Close the database connection
-mysqli_close($link);
+// // Function to send email notification
+// function sendEmailNotification($recipientEmail, $trackId, $amount) {
+//     $mail = new PHPMailer(true);
 
-// Function to send email notification
-function sendEmailNotification($recipientEmail, $trackId, $amount) {
-    $mail = new PHPMailer(true);
+//     try {
+//         // Your SMTP or mail configuration goes here
+//         // ...
 
-    try {
-        // Your SMTP or mail configuration goes here
-        // ...
+//         $mail->setFrom('your_email@c.com', 'Your Name');
+//         $mail->addAddress($recipientEmail);
 
-        $mail->setFrom('your_email@example.com', 'Your Name');
-        $mail->addAddress($recipientEmail);
+//         $mail->isHTML(true);
+//         $mail->Subject = "Payment Notification";
+//         $mail->Body = "Dear user,\n\nYou have a payment to make for the shipment with Track ID: $trackId. The amount to be paid is: $amount.\n\nThank you.";
 
-        $mail->isHTML(true);
-        $mail->Subject = "Payment Notification";
-        $mail->Body = "Dear user,\n\nYou have a payment to make for the shipment with Track ID: $trackId. The amount to be paid is: $amount.\n\nThank you.";
-
-        $mail->send();
-        echo 'Email notification sent successfully.';
-    } catch (Exception $e) {
-        echo "Email notification error: " . $mail->ErrorInfo;
-    }
-}
+//         $mail->send();
+//         echo 'Email notification sent successfully.';
+//     } catch (Exception $e) {
+//         echo "Email notification error: " . $mail->ErrorInfo;
+//     }
+// }
 ?>
